@@ -1,0 +1,56 @@
+.order-page {
+  max-width: 900px;
+  margin: 24px auto 0;
+  padding: 0 24px;
+}
+
+.order-paper {
+  padding: 16px 24px 24px;
+}
+
+.order-step-body {
+  margin-top: 16px;
+  min-height: 200px;
+}
+
+.order-line {
+  margin-top: 8px !important;
+}
+
+.order-description {
+  font-style: italic;
+}
+
+.order-total {
+  color: #f44336;
+  margin-top: 24px !important;
+}
+
+.order-address-step {
+  max-width: 340px;
+  margin: 0 auto;
+}
+
+.order-or {
+  margin: 16px 0 !important;
+}
+
+.order-save {
+  margin-top: 16px !important;
+}
+
+.order-confirm-left {
+  padding-right: 24px;
+}
+
+.order-confirm-right {
+  border-left: 1px solid #e0e0e0;
+  padding-left: 24px;
+}
+
+.order-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 24px;
+}

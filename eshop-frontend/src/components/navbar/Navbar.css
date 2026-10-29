@@ -1,0 +1,59 @@
+.nav-logo {
+  display: flex;
+  align-items: center;
+  flex: 1;
+}
+
+.nav-title {
+  margin-left: 8px;
+  font-size: 1rem;
+}
+
+.nav-middle {
+  flex: 2;
+  display: flex;
+  justify-content: center;
+}
+
+.nav-search {
+  position: relative;
+  border-radius: 4px;
+  background-color: rgba(255, 255, 255, 0.15);
+  width: 100%;
+  max-width: 320px;
+}
+
+.nav-search:hover {
+  background-color: rgba(255, 255, 255, 0.25);
+}
+
+.nav-search-icon {
+  position: absolute;
+  height: 100%;
+  padding: 0 12px;
+  display: flex;
+  align-items: center;
+  pointer-events: none;
+}
+
+.nav-search-input {
+  color: #fff;
+  width: 100%;
+}
+
+.nav-search-input input {
+  padding: 8px 8px 8px 48px;
+}
+
+.nav-links {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.nav-link {
+  color: #fff;
+  margin-right: 16px;
+  font-size: 0.85rem;
+}

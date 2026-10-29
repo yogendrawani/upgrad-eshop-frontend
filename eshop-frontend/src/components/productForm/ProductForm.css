@@ -1,0 +1,23 @@
+.product-form-page {
+  max-width: 400px;
+  margin: 32px auto 0;
+  padding: 0 16px;
+}
+
+.product-form-title {
+  margin-bottom: 16px !important;
+}
+
+.product-form-category {
+  margin: 8px 0 4px;
+}
+
+.product-form-error {
+  color: #f44336;
+  font-size: 0.75rem;
+  margin-left: 14px;
+}
+
+.product-form-submit {
+  margin-top: 16px !important;
+}

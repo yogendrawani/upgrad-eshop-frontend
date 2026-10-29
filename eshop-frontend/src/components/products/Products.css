@@ -1,0 +1,22 @@
+.products-page {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.products-sort {
+  width: 220px;
+  margin-bottom: 24px;
+}
+
+.products-sort-label {
+  margin-bottom: 4px !important;
+}
+
+.products-grid {
+  margin-top: 8px;
+}
+
+.products-empty {
+  margin-top: 48px !important;
+}

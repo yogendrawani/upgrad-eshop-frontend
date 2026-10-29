@@ -1,0 +1,45 @@
+.details-container {
+  max-width: 1000px;
+  margin: 32px auto 0 !important;
+  padding: 0 24px;
+  width: 100% !important;
+}
+
+.details-image-col {
+  text-align: center;
+}
+
+.details-image {
+  max-width: 100%;
+  max-height: 400px;
+}
+
+.details-title-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.details-chip {
+  margin-left: 16px !important;
+}
+
+.details-category {
+  margin: 12px 0 !important;
+}
+
+.details-description {
+  font-style: italic;
+  margin-bottom: 16px !important;
+}
+
+.details-price {
+  color: #f44336;
+  margin-bottom: 16px !important;
+}
+
+.details-quantity {
+  display: block !important;
+  max-width: 280px;
+  margin-bottom: 16px !important;
+}
